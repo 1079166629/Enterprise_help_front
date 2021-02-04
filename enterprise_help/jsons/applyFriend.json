@@ -1,0 +1,10 @@
+{
+  "application": {
+    "aplId": 1,
+    "aplSelf": 100000,
+    "aplFriend": 100001,
+    "aplTime": "2020-10-02",
+    "aplState": 500
+  },
+  "status": 200
+}

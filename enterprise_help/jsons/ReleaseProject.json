@@ -1,0 +1,12 @@
+{
+  "project": {
+    "pjId": 1,
+    "pjName": "激光打印机",
+    "pjStatus": 500,
+    "pjReltime": "2020-12-31",
+    "pjProtime": null,
+    "pjDeltime": "2021-12-31",
+    "pjNote": null
+  },
+  "status": 200
+}

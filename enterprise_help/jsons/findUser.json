@@ -1,0 +1,11 @@
+{
+  "User": {
+    "usrId": 100000,
+    "usrName": "开门红",
+    "usrTel": "13304727208",
+    "usrAd": "湖南省长沙市",
+    "bsId": [1,2,3,4],
+    "isFriend": true
+  },
+  "status": 200
+}

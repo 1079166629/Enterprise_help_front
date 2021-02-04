@@ -1,0 +1,16 @@
+{
+  "business": [
+    {
+      "bsId":1,
+      "bsName": "xxx",
+      "bsNote": "xxx"
+    },
+    {
+      "bsId":1,
+      "bsName": "xxx",
+      "bsNote": "xxx"
+    }
+  ],
+  "status": "200"
+}
+

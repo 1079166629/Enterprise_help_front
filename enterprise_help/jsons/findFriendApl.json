@@ -1,0 +1,25 @@
+{
+  "applyFriends": [{
+    "aplUser": {
+      "usrId": 10000,
+      "usrName": "开门红",
+      "usrTel": "13304727208",
+      "usrAd": "广东省-广州市",
+      "bsId": [1,3,4],
+      "isFriend": true
+    },
+    "aplId": 1,
+    "aplSelf": 10000,
+    "aplFriend": 100001,
+    "aplTime": "xx",
+    "aplState": 500},
+    {
+      "aplId": 1,
+      "aplSelf": 10000,
+      "aplFriend": 100001,
+      "aplTime": "xx",
+      "aplState": 500}
+  ],
+  "status": 200
+}
+

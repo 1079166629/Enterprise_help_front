@@ -1,0 +1,21 @@
+{
+  "status": 200,
+  "Users":[
+    {
+      "usrId": 1,
+      "usrName": "xxx",
+      "usrTel":"xxx",
+      "usrAd": "xxx",
+      "bsId": [1,2,3],
+      "isFriend": true
+    },
+    {
+      "usrId": 1,
+      "usrName": "xxx",
+      "usrTel":"xxx",
+      "usrAd": "xxx",
+      "bsId": [1,2,3],
+      "isFriend": true
+    }
+  ]
+}
